@@ -12,6 +12,8 @@ namespace ConsoleAppGit
         {
             //The first line
             Console.WriteLine("Hello World");
+            //This is another line
+            Console.WriteLine("Another line");
         }
     }
 }

@@ -10,6 +10,8 @@ namespace ConsoleAppGit
     {
         static void Main(string[] args)
         {
+            //The first line
+            Console.WriteLine("Hello World");
         }
     }
 }
